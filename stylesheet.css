@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    max-height: max-content;
+}
+.Contenido{
+    display: flex; 
+}
+.Cabeza{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    margin: 35px 10px 0px 0px;
+}
+.logo{
+    margin: 10px 10px 10px 25px ;
+}
+a{
+    margin: 10px 10px 10px 25px;
+}
+.prititulo{
+     margin: 15px 0px 0px 25px;
+}
+.parrafo1{
+    margin: 15px 0px 0px 25px;
+}
+.foto{
+    margin: 15px 0px 0px 25px;
+    width: 600px;
+}
+.segtitulo{
+    margin: 15px 0px 0px 200px;
+}
+.parrafo2{
+    margin: 15px 0px 0px 200px;
+}
+form label{
+    display: block;
+    font-size: 15px;
+    /* margin-bottom: 7px; */
+
+}
+form input{
+    height: 45px;
+    padding: 10px;
+    width: 100%;
+    font-size: 14px;
+    background: #ffff;
+    border-radius: 5px;
+    border: solid 1px #bfbfbf;
+    margin: 8px 0px 8px 0px;
+}
+option{
+    height: 45px;
+    padding: 10px;
+    width: 100%;
+    font-size: 14px;
+    background: #ffff;
+    border-radius: 5px;
+    border: solid 1px #bfbfbf;
+}
+.formulario{
+    margin: 15px 30px 0px 200px;
+}
+.btn1{
+    border: solid black 0.5px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: rgba(35, 130, 206, 1);
+}
+.btn2{
+    border: solid black 0.5px;
+    border-radius: 4px;
+    padding: 5px;
+}
+textarea{
+    resize: none;
+    height: 6em;
+   width: 100%;
+   display: block;
+   font-size: 15px;
+   /* margin-bottom: 7px; */
+   padding: 10px;
+   font-size: 14px;
+   background: #ffff;
+   border-radius: 5px;
+   border: solid 1px #bfbfbf;
+   color: #9e9c9c;
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 8px 0px 8px 0px;
+}
+h4{
+    margin: 0px 0px 0px 5px;
+    font-family: "Poppins", sans-serif;
+}
+.ubicacion{
+    margin: 0px 0px 20px 25px;
+}
+h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+}
+.pie{
+    display: flex;
+}
+.mapa{
+    margin: 0px 0px 0px 135px;
+    width: 181px;
+}
+.UY{
+    display: flex;
+    align-items: center;
+}
+.TEL{
+    display: flex;
+    align-items: center;
+}
+.ub{
+    margin: 0px 10px 0px 0px;
+}
+.gl{
+    margin: 0px 10px 0px 0px;
+}
+.submit{
+    background-color:rgba(35, 130, 206, 1);
+    width: 80px;
+    height: 40px;
+    border: solid black 0.6px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px 0px 0px 200px;
+    
+}
+.un{
+    margin: 0px 0px 0px 35px;
+
+}
+.dos{
+    margin: 0px 0px 0px 35px;
+
+}
+.tres{
+    margin: 0px 0px 0px 35px;
+
+}
+.izquierda{
+    padding: 0px;
+    margin: 0px;
+}
